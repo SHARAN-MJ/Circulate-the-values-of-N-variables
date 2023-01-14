@@ -21,6 +21,7 @@ def circulate():
     l=a[n:]+a[:n]
     print("After circulating the values are:",l)
 ## Output:
-![output](/2023-01-14%20(3).png)
+![output]![2023-01-14 (3)](https://user-images.githubusercontent.com/119560305/212465106-d7bcb2fa-3761-4ef3-98c5-217f8fe29d19.png)
+
 ## Result:
 Thus the swapping of two values are successfully executed
