@@ -15,7 +15,12 @@ Using the slicing concept rotate the list
 ### Step 5: 
 ### Step 6: 
 ## Program:
-
+def circulate():
+    a=eval(input())
+    n=int(input())
+    l=a[n:]+a[:n]
+    print("After circulating the values are:",l)
 ## Output:
-
+![output](/2023-01-14%20(3).png)
 ## Result:
+Thus the swapping of two values are successfully executed
